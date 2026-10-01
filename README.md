@@ -45,7 +45,7 @@ Após o tratamento, foi construída uma estrutura de dados utilizando o conceito
 A modelagem foi organizada buscando facilitar os relacionamentos entre as tabelas e permitir análises de vendas, clientes, produtos, regiões e períodos.
 
 ### 2.1 Imagem Star Schema
-![Modelo Star Schema](./Imagens/Modelo_Fato-Dim.png)
+![Modelo Star Schema](./imagens/Modelo_Fato-Dim.png)
 
 ### 3. Criação das medidas
 
@@ -84,4 +84,4 @@ O projeto foi desenvolvido com foco em praticar o fluxo completo de um projeto d
 **Projeto desenvolvido por João Lucas Freire da Silva**
 - Email: joao.lucas.devsql@gmail.com
 - LinkedIn: [João Lucas Freire da Silva](https://www.linkedin.com/in/joao-lucas-devsql/)
-- Power BI: [Meu DashBoard](<iframe title="PowerBI-Vendas" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODc4Nzk1OTItMDdjMi00MzM0LTkwM2QtYTZjZTQxMjhmM2EwIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9&pageName=0b070cd84a0ee8c2146c" frameborder="0" allowFullScreen="true"></iframe>)
+- Power BI: [Meu DashBoard](https://app.powerbi.com/view?r=eyJrIjoiODc4Nzk1OTItMDdjMi00MzM0LTkwM2QtYTZjZTQxMjhmM2EwIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9&pageName=0b070cd84a0ee8c2146c)
